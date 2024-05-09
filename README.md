@@ -2,7 +2,8 @@
 
 Link for final APK file of app -- 
 https://drive.google.com/drive/folders/154_MG0XC9-d6R4Pw3qkMb6dnO6PlZRKN
-APK SIZE - 20 MB
+APK SIZE - 20 MB.
+
 A Expense managing app build with flutter having firebase authentication and local database hive 
 
 ## Getting Started
